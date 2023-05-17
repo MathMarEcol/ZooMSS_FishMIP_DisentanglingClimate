@@ -1,4 +1,4 @@
-# ZooMSS Output for Disentangling response to climate change
+# ZooMSS output for disentangling responses to climate change
  
 These code were used to create the output for ZooMSS within the ensemble simulations published in Heneghan et al. (2021).
 
